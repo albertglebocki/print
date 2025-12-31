@@ -1,0 +1,12 @@
+*.o
+*.out
+example
+
+build/
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.DS_Store
